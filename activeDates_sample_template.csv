@@ -1,0 +1,5 @@
+Variant GID,Quantity,Type,Value,Customer,Start Date,End Date,Rule Name(Ref),Product Title(Ref),Variant Name(Ref),Variant SKU(Ref),Variant Price(Ref)
+12345678901234,3,fixed,148,all,2025-12-01,2025-12-31,Holiday Sale 2025,OSC Sample 1,Default Title,SAMPLE-SKU-001,199.99
+12345678901234,5,percent off,15,vip,2025-11-15,2025-11-30,Black Friday VIP,OSC Sample 2,Default Title,SAMPLE-SKU-002,199.99
+98765432109876,2,fixed,50,wholesale,2025-10-15,2025-10-31,October Wholesale Deal,OSC Sample 3,Size M,SAMPLE-SKU-003,299.99
+98765432109876,10,percent off,25,all,2025-12-15,2025-12-25,Christmas Special,OSC Sample 4,Size M,SAMPLE-SKU-004,299.99

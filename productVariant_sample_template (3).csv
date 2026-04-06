@@ -1,0 +1,20 @@
+Variant GID,Quantity,Type,Value,Customer,Product Title(Ref),Variant Name(Ref),Variant SKU(Ref),Variant Price(Ref)
+46182687047938,10,percent off,12,all,OSC Sample 1,Small,SSB123,50
+46182687047938,10,percent off,10,loggedin,OSC Sample 2,Small,SSB123,50
+46182687047938,10,fixed,2,vip,OSC Sample 3,Small,SSB123,50
+46182687047938,10,fixed,5,wholesale,OSC Sample 4,Small,SSB123,50
+46182687047942,10,fixed,5,all,OSC Sample 5,Medium,FWT123,75
+46182687047943,10,percent off,10,loggedin,OSC Sample 6,Medium,FWT123,75
+46182687047944,10,percent off,15,wholesale,OSC Sample 7,Medium,FWT123,75
+46182687047945,5,percent off,10,vip,OSC Sample 8,Large,YWJ123,80
+46182687047945,5,percent off,10,all,OSC Sample 9,XL,YWJ567,80
+46182687047947,4,percent off,5,all,OSC Sample 10,Small,CVT123,60
+46182687047948,6,percent off,10,all,OSC Sample 11,Medium,CVT456,60
+46182687047949,2,fixed,48,all,OSC Sample 12,Small,OBS123,50
+46182687047950,2,fixed,45,all,OSC Sample 13,Small,OBS123,50
+46182687047951,2,fixed,40,loggedin,OSC Sample 14,Small,OBS123,50
+46182687047952,2,fixed,35,wholesale,OSC Sample 15,Small,OBS123,50
+46182687047953,5,fixed,46,vip,OSC Sample 16,Small,OBS123,50
+46182687047954,5,fixed,42,all,OSC Sample 17,Small,OBS123,50
+46182687047955,5,fixed,38,loggedin,OSC Sample 18,Small,OBS123,50
+46182687047956,5,fixed,10,wholesale,OSC Sample 19,Medium,OBSM234,50
